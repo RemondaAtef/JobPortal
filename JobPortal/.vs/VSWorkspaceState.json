@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\nav-bar",
+    "\\src\\app\\property",
+    "\\src\\app\\property\\property-list",
+    "\\src\\app\\services",
+    "\\src\\assets",
+    "\\src\\assets\\images",
+    "\\src\\data",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}

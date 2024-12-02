@@ -1,0 +1,44 @@
+[
+  {
+    "jobId": 1,
+    "title": "Full Stack Developer",
+    "company": "Coptic Orphans",
+    "location": "Cairo,Egypt (Onsite)",
+    "image": "logo"
+  },
+  {
+    "jobId": 2,
+    "title": "Senior Backend Developer",
+    "company": "Oliv",
+    "location": "Cairo,Egypt (Hybrid)",
+    "image": "olivlogo"
+  },
+  {
+    "jobId": 3,
+    "title": "Senior Backend Engineer",
+    "company": "DualEntry",
+    "location": "Egypt (Remote)",
+    "image": "dualentry_logo"
+  },
+  {
+    "jobId": 4,
+    "title": "C# Back-end Developer",
+    "company": "BlackStone eIT",
+    "location": "Cairo,Egypt (Remote)",
+    "image": "blackstoneeit_logo"
+  },
+  {
+    "jobId": 5,
+    "title": "Junior Full-Stack Django Developer",
+    "company": "Docspert Health",
+    "location": "Cairo,Egypt (Hybrid)",
+    "image": "docspert_logo"
+  },
+  {
+    "jobId": 6,
+    "title": "Backend Engineer",
+    "company": "Vezeeta",
+    "location": "Cairo,Egypt (Hybrid)",
+    "image": "vezeeta_logo"
+  }
+]

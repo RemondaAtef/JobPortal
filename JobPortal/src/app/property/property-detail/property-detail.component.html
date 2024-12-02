@@ -1,0 +1,37 @@
+
+<button class="btn btn-primary" routerLink="/add-property/{{propertyId}}">Apply</button>
+
+<br /> <br />
+
+<div class="row shadow">
+  <div class="col-sm-4 p-0">
+    <div class="card">
+      <!--<div class="card-img-wrapper">
+        <img *ngIf="mainPhotoUrl" class="card-img-top" src="{{mainPhotoUrl}}">
+        <img *ngIf="!mainPhotoUrl" class="card-img-top" src="assets/images/house_default.png">
+      </div>-->
+      <div class="card-body">
+        <h1 class="card-title">{{property.title}}</h1>
+        <div>
+          <strong>{{property.company}} </strong>
+        </div>
+        <div>
+          <strong>in {{property.location}}</strong>
+        </div> <hr>
+        <div>
+          <strong>Job Description: </strong>
+          {{property.description}}
+        </div>
+
+        <div>
+          <strong>Requirements: </strong>
+          {{property.requirements}}
+        </div>
+      </div>
+    
+    </div>
+  </div>
+
+</div>
+<br />
+

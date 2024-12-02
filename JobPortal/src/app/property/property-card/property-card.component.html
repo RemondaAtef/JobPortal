@@ -1,0 +1,13 @@
+<div class="card">
+  <div class="card-img-wrapper">
+    <img *ngIf="property.image" class="card-img-top" src="assets/images/{{property.image}}.jpg" />
+    
+
+  </div>
+  <div class="card-body p-2">
+    <h1>{{property.title}}</h1>
+    <h2>{{property.company}}</h2>
+    <h3>{{property.location}}</h3>
+    <button class="btn btn-primary" routerLink="/property-detail/{{property.jobId}}">Details</button>
+  </div>
+</div>

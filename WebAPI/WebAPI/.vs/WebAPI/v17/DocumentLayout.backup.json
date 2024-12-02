@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dal\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\dtos\\jobdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\jobdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dal\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\dal\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dal\\entities\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\controllers\\jobdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\jobdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\interface\\ijobdetailsrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\interface\\ijobdetailsrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\interface\\ijobrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\interface\\ijobrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\repository\\jobdetailsrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\repository\\jobdetailsrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\bl\\repository\\jobrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\bl\\repository\\jobrep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\helpers\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\errors\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\errors\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\migrations\\20241202090327_ffd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20241202090327_ffd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|d:\\courses\\new folder\\jobportal\\webapi\\webapi\\migrations\\20241202090056_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287A6723-13FA-4999-B924-1943C74D4922}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20241202090056_db3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:43:31.613Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobDetailsController.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\JobDetailsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\JobDetailsController.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\JobDetailsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\JobDetailsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:20:43.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\JobController.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\JobController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:43:31.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobDetailsRep.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\JobDetailsRep.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Repository\\JobDetailsRep.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\JobDetailsRep.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Repository\\JobDetailsRep.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:25:07.322Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobRep.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\JobRep.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Repository\\JobRep.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\JobRep.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Repository\\JobRep.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:26:50.682Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApplicationController.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:00:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DAL\\Entities\\Application.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Entities\\Application.cs",
+              "RelativeToolTip": "WebAPI\\DAL\\Entities\\Application.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:39:25.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:29:31.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJobRep.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IJobRep.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Interface\\IJobRep.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IJobRep.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Interface\\IJobRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:29:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:29:10.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJobDetailsRep.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IJobDetailsRep.cs",
+              "RelativeDocumentMoniker": "WebAPI\\BL\\Interface\\IJobDetailsRep.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\BL\\Interface\\IJobDetailsRep.cs",
+              "RelativeToolTip": "WebAPI\\BL\\Interface\\IJobDetailsRep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:24:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Helpers\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Helpers\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "WebAPI\\Helpers\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:24:12.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DAL\\Entities\\Job.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Entities\\Job.cs",
+              "RelativeToolTip": "WebAPI\\DAL\\Entities\\Job.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:23:51.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Dtos\\JobDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\JobDto.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Dtos\\JobDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\JobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:22:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobDetailsDto.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Dtos\\JobDetailsDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dtos\\JobDetailsDto.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Dtos\\JobDetailsDto.cs",
+              "RelativeToolTip": "WebAPI\\Dtos\\JobDetailsDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:23:43.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241202090327_ffd.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Migrations\\20241202090327_ffd.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20241202090327_ffd.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Migrations\\20241202090327_ffd.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20241202090327_ffd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:03:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:03:08.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241202090056_db3.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Migrations\\20241202090056_db3.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20241202090056_db3.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Migrations\\20241202090056_db3.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20241202090056_db3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:00:57.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\DAL\\Database\\DataContext.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\DAL\\Database\\DataContext.cs",
+              "RelativeToolTip": "WebAPI\\DAL\\Database\\DataContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:37:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Errors\\ApiError.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Errors\\ApiError.cs",
+              "ToolTip": "D:\\Courses\\New folder\\JobPortal\\WebAPI\\WebAPI\\Errors\\ApiError.cs",
+              "RelativeToolTip": "WebAPI\\Errors\\ApiError.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:43:31.629Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
